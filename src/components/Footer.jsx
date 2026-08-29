@@ -2,7 +2,7 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="bg-blue-950 text-slate-300 py-4 mt-auto border-t border-slate-800 shadow-inner">
+    <footer className="bg-blue-950 text-slate-300 py-4 mt-auto border-t border-slate-800 shadow-inner fixed bottom-0 w-full z-50">
       <div className="max-w-7xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-4">
         <div className="text-sm font-medium tracking-wide gap-1">
           © {new Date().getFullYear()} CryptoVault. Crafted by{" "}

@@ -7,9 +7,9 @@ import PortfolioPage from "./pages/PortfolioPage";
 import { Toaster } from "react-hot-toast";
 const App = () => {
   return (
-    <div className="min-h-screen w-full overflow-x-hidden flex flex-col bg-black pt-10">
+    <div className="min-h-screen w-full overflow-x-hidden flex flex-col bg-black">
       <Navbar />
-      <main className="grow">
+      <main className="grow pb-24 pt-24">
         <Toaster position="top-center" reverseOrder={false} />
         <Routes>
           <Route path="/" element={<HomePage />} />
