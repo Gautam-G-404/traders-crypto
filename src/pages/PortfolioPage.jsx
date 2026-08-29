@@ -179,7 +179,7 @@ const PortfolioPage = () => {
       ) : (
         <div className="text-center mt-10 flex flex-col">
           <h2 className="text-2xl text-slate-400 font-semibold mb-2">
-            Portfolio is empty...😮😮
+            Portfolio is empty...
           </h2>
           <p className="text-slate-500">
             Go roam and have something from the market....
