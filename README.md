@@ -8,11 +8,11 @@ Welcome to CryptoVault! This is a mobile-first cryptocurrency tracking and virtu
 
 ## 📸 Screenshots
 
-![Home Page]([https://github.com/user-attachments/assets/e103d63a-6e7a-485e-a53a-9dfc41e699f6])
+![Home Page](https://github.com/user-attachments/assets/e103d63a-6e7a-485e-a53a-9dfc41e699f6)
 
-![Watch List]([https://github.com/user-attachments/assets/6ed26ee6-d04e-42a0-85ab-4196a131b0db])
+![Watch List](https://github.com/user-attachments/assets/6ed26ee6-d04e-42a0-85ab-4196a131b0db)
 
-![Portfolio & Trading]([https://github.com/user-attachments/assets/5dcc75e6-28b8-4ece-9495-1f399c88d67e])
+![Portfolio & Trading](https://github.com/user-attachments/assets/5dcc75e6-28b8-4ece-9495-1f399c88d67e)
 
 ---
 
@@ -38,7 +38,7 @@ Want to test the code on your own machine? Follow these simple steps:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/Gautam-G-404/traders-crypto.git](https://github.com/Gautam-G-404/traders-crypto.git)
+git clone https://github.com/Gautam-G-404/traders-crypto.git 
 ```
 
 **2. Open the folder:**
