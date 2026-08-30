@@ -1,16 +1,69 @@
-# React + Vite
+# 📈 CryptoVault - Portfolio & Trading Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to CryptoVault! This is a mobile-first cryptocurrency tracking and virtual trading dashboard. I built this with React and Redux Toolkit to practice handling real-time market data and building a smooth, app-like user interface on the web.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [Click Here to View App](https://traders-crypto.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📸 Screenshots
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Home Page]([https://github.com/user-attachments/assets/e103d63a-6e7a-485e-a53a-9dfc41e699f6])
 
-## Expanding the ESLint configuration
+![Watch List]([https://github.com/user-attachments/assets/6ed26ee6-d04e-42a0-85ab-4196a131b0db])
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Portfolio & Trading]([https://github.com/user-attachments/assets/5dcc75e6-28b8-4ece-9495-1f399c88d67e])
+
+---
+
+## ✨ What can this app do?
+
+* **Live Market Prices:** Fetches real-time crypto prices, market caps, and trends using the CoinGecko API.
+* **Virtual Trading:** Buy and sell coins with a dummy wallet. The app automatically calculates your average buying price and live Profit/Loss (P&L).
+* **Saves Your Data:** Uses your browser's local storage so your portfolio and watchlist stay safe even if you close or refresh the page.
+* **Smooth Experience:** Features smooth skeleton loaders, interactive charts, and toast notifications for a premium user experience.
+
+## 🛠️ Built With
+
+* **Frontend:** React (Vite)
+* **State Management:** Redux Toolkit (RTK)
+* **Styling:** Tailwind CSS
+* **Charts:** Recharts
+* **Live Data:** CoinGecko API
+* **Deployment:** Netlify (CI/CD)
+
+## 🚀 How to Run It Locally
+
+Want to test the code on your own machine? Follow these simple steps:
+
+**1. Clone the repository:**
+```bash
+git clone [https://github.com/Gautam-G-404/traders-crypto.git](https://github.com/Gautam-G-404/traders-crypto.git)
+```
+
+**2. Open the folder:**
+```bash
+cd traders-crypto
+```
+
+**3. Install the packages:**
+```bash
+npm install
+```
+
+**4. Start the local server:**
+```bash
+npm run dev
+```
+*Now open `http://localhost:5173/` in your browser!*
+
+## 🤝 Got Feedback?
+
+If you find a bug, have an idea for a new feature, or just want to suggest an improvement, feel free to open an issue on the [Issues Page](https://github.com/Gautam-G-404/traders-crypto/issues). 
+
+## 📝 License
+
+This project is open-source and available under the MIT License. Feel free to explore and use the code!
+
+---
+*Crafted with ❤️ by Gautam*
